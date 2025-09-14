@@ -12,4 +12,4 @@ function CountCharFrequency(str) {
     return frequency;
 }
 
-console.log(CountCharFrequency("hello")); // Output: { h: 1, e: 1, l: 3, o: 2, ' ': 1, w: 1, r: 1, d: 1 }
+console.log(CountCharFrequency("hello Abhijeet")); // Output: { h: 1, e: 1, l: 3, o: 2, ' ': 1, w: 1, r: 1, d: 1 }
